@@ -1,7 +1,6 @@
 # MyLoan - Inventory
 
 ![Logo Proyek](./app.png)
-![Logo Proyek](./app.png)
 
 Sebuah pengembangan proyek dengan framework laravel dan mysql, isi yang didapatkan
 diantaranya terdapat dashboard admin beserta grafik chart berdasarkan data, selain itu tersedia fitur Export PDF, Scan QR Barcode.
