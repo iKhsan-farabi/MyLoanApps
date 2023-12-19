@@ -13,7 +13,7 @@ return new class extends Migration
     {
         Schema::table('barang', function (Blueprint $table) {
             //
-            // $table->string('kode_barang');
+            $table->string('kode_barang');
         });
     }
 
